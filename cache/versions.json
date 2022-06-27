@@ -1,0 +1,178 @@
+{
+  "androidx.core:core-ktx": {
+    "ttl": 1656438413618,
+    "value": "1.9.0-alpha05"
+  },
+  "androidx.appcompat:appcompat": {
+    "ttl": 1656438413750,
+    "value": "1.6.0-alpha05"
+  },
+  "com.google.android.material:material": {
+    "ttl": 1656438413926,
+    "value": "1.7.0-alpha02"
+  },
+  "androidx.constraintlayout:constraintlayout": {
+    "ttl": 1656438414045,
+    "value": "2.2.0-alpha02"
+  },
+  "androidx.navigation:navigation-fragment-ktx": {
+    "ttl": 1656438414977,
+    "value": "2.5.0-rc02"
+  },
+  "androidx.navigation:navigation-ui-ktx": {
+    "ttl": 1656438415134,
+    "value": "2.5.0-rc02"
+  },
+  "com.google.firebase:firebase-analytics": {
+    "ttl": 1656438415270,
+    "value": "21.0.0"
+  },
+  "androidx.compose.material3:material3": {
+    "ttl": 1656438415669,
+    "value": "1.0.0-alpha13"
+  },
+  "androidx.compose.material3:material3-window-size-class": {
+    "ttl": 1656438415811,
+    "value": "1.0.0-alpha13"
+  },
+  "junit:junit": {
+    "ttl": 1656438439811,
+    "value": "4.13.2"
+  },
+  "org.jetbrains.kotlinx:kotlinx-coroutines-android": {
+    "ttl": 1656438440356,
+    "value": "1.6.3-native-mt"
+  },
+  "androidx.test.ext:junit": {
+    "ttl": 1656438441274,
+    "value": "1.1.4-alpha07"
+  },
+  "androidx.test.espresso:espresso-core": {
+    "ttl": 1656438441412,
+    "value": "3.5.0-alpha07"
+  },
+  "androidx.lifecycle:lifecycle-livedata-ktx": {
+    "ttl": 1656438441793,
+    "value": "2.5.0-rc02"
+  },
+  "androidx.lifecycle:lifecycle-viewmodel-ktx": {
+    "ttl": 1656438441915,
+    "value": "2.5.0-rc02"
+  },
+  "androidx.compose.ui:ui": {
+    "ttl": 1656438442077,
+    "value": "1.2.0-rc02"
+  },
+  "androidx.compose.ui:ui-tooling": {
+    "ttl": 1656438442242,
+    "value": "1.2.0-rc02"
+  },
+  "androidx.compose.foundation:foundation": {
+    "ttl": 1656438442408,
+    "value": "1.2.0-rc02"
+  },
+  "androidx.compose.material:material-icons-core": {
+    "ttl": 1656438442570,
+    "value": "1.2.0-rc02"
+  },
+  "androidx.compose.material:material-icons-extended": {
+    "ttl": 1656438442742,
+    "value": "1.2.0-rc02"
+  },
+  "androidx.activity:activity-compose": {
+    "ttl": 1656438442894,
+    "value": "1.6.0-alpha05"
+  },
+  "androidx.lifecycle:lifecycle-viewmodel-compose": {
+    "ttl": 1656438443187,
+    "value": "2.5.0-rc02"
+  },
+  "androidx.lifecycle:lifecycle-runtime-ktx": {
+    "ttl": 1656438443332,
+    "value": "2.5.0-rc02"
+  },
+  "androidx.compose.runtime:runtime-livedata": {
+    "ttl": 1656438443499,
+    "value": "1.2.0-rc02"
+  },
+  "androidx.navigation:navigation-compose": {
+    "ttl": 1656438443649,
+    "value": "2.5.0-rc02"
+  },
+  "androidx.hilt:hilt-navigation-compose": {
+    "ttl": 1656438443805,
+    "value": "1.0.0"
+  },
+  "androidx.compose.ui:ui-test-junit4": {
+    "ttl": 1656438443975,
+    "value": "1.2.0-rc02"
+  },
+  "com.google.dagger:hilt-android": {
+    "ttl": 1656438444369,
+    "value": "2.42"
+  },
+  "com.google.dagger:hilt-android-compiler": {
+    "ttl": 1656438444956,
+    "value": "2.42"
+  },
+  "org.jetbrains.kotlinx:kotlinx-metadata-jvm": {
+    "ttl": 1656438445570,
+    "value": "0.5.0"
+  },
+  "androidx.hilt:hilt-lifecycle-viewmodel": {
+    "ttl": 1656438445910,
+    "value": "1.0.0-alpha03"
+  },
+  "androidx.hilt:hilt-common": {
+    "ttl": 1656438446066,
+    "value": "1.0.0"
+  },
+  "androidx.hilt:hilt-navigation": {
+    "ttl": 1656438446202,
+    "value": "1.0.0"
+  },
+  "androidx.hilt:hilt-navigation-fragment": {
+    "ttl": 1656438446380,
+    "value": "1.0.0"
+  },
+  "com.github.bumptech.glide:glide": {
+    "ttl": 1656438446799,
+    "value": "4.13.2"
+  },
+  "com.facebook.stetho:stetho": {
+    "ttl": 1656438447354,
+    "value": "1.6.0"
+  },
+  "com.facebook.stetho:stetho-okhttp3": {
+    "ttl": 1656438447926,
+    "value": "1.6.0"
+  },
+  "com.squareup.retrofit2:converter-gson": {
+    "ttl": 1656438448539,
+    "value": "2.9.0"
+  },
+  "com.squareup.retrofit2:retrofit": {
+    "ttl": 1656438449153,
+    "value": "2.9.0"
+  },
+  "androidx.room:room-runtime": {
+    "ttl": 1656438449447,
+    "value": "2.5.0-alpha02"
+  },
+  "androidx.room:room-ktx": {
+    "ttl": 1656438450177,
+    "value": "2.5.0-alpha02"
+  },
+  "androidx.room:room-compiler": {
+    "ttl": 1656438450791,
+    "value": "2.5.0-alpha02"
+  },
+  "androidx.room:room-testing": {
+    "ttl": 1656438450923,
+    "value": "2.5.0-alpha02"
+  },
+  "com.jakewharton.timber:timber": {
+    "ttl": 1656438451406,
+    "value": "5.0.1"
+  }
+}
