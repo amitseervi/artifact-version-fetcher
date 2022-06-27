@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d429073-72f6-47be-a43e-e2424d02fb14" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/artifact-fetcher-lib/src/main/kotlin/VersionFileCacheManager.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/artifact-fetcher-lib/src/main/kotlin/exceptions/CacheFileDoesNotExist.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/artifact-fetcher-lib/src/main/kotlin/exceptions/CacheValueExpired.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/artifact-fetcher-lib/src/main/kotlin/exceptions/CacheValueNotFound.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/artifact-fetcher-lib/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/artifact-fetcher-lib/build.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/artifact-fetcher-lib/src/main/kotlin/VersionFetcher.kt" beforeDir="false" afterPath="$PROJECT_DIR$/artifact-fetcher-lib/src/main/kotlin/VersionFetcher.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +17,58 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/artifact-fetcher-lib">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="artifact-fetcher" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="artifact-fetcher" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="artifact-fetcher" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="artifact-fetcher" type="f1a62948:ProjectNode" />
+                <item name="artifact-fetcher-lib" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="artifact-fetcher" type="f1a62948:ProjectNode" />
+                <item name="artifact-fetcher-lib" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="artifact-fetcher" type="f1a62948:ProjectNode" />
+                <item name="artifact-fetcher-lib" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="other" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -52,7 +98,8 @@
     "last_opened_file_path": "/Users/amitkumar.chaudhary/personal/artifact-fetcher/artifact-fetcher-lib/src/main/kotlin",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.side.proportion": "0.0",
+    "run.code.analysis.last.selected.profile": "pProject Default"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -63,7 +110,49 @@
       <recent name="exceptions" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Gradle.artifact-fetcher:artifact-fetcher-lib [buildLibrary]">
+    <configuration name="artifact-fetcher [assemble]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="assemble" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="artifact-fetcher:artifact-fetcher-lib [buildLibrary]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/artifact-fetcher-lib" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="buildLibrary" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
     <configuration name="App" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="App" />
       <module name="artifact-fetcher.main" />
@@ -73,6 +162,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.artifact-fetcher:artifact-fetcher-lib [buildLibrary]" />
+        <item itemvalue="Gradle.artifact-fetcher [assemble]" />
         <item itemvalue="Kotlin.App" />
       </list>
     </recent_temporary>
@@ -93,11 +184,19 @@
       <option name="project" value="LOCAL" />
       <updated>1656348986732</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Adding Cache handling">
+      <created>1656352465599</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1656352465599</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="implementing library" />
-    <option name="LAST_COMMIT_MESSAGE" value="implementing library" />
+    <MESSAGE value="Adding Cache handling" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding Cache handling" />
   </component>
 </project>

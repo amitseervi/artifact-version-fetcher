@@ -3,7 +3,7 @@ plugins {
 }
 
 group = "com.amit"
-version = "1.0-SNAPSHOT"
+version = "1.0"
 
 repositories {
     mavenCentral()
@@ -19,4 +19,11 @@ dependencies {
 
 tasks.getByName<Test>("test") {
     useJUnitPlatform()
+}
+
+tasks.create<org.gradle.jvm.tasks.Jar>("buildLibrary") {
+    archiveVersion.set(version)
+    archiveFileName.set("artifact-fetcher-${version}.jar")
+    from("./src")
+    destinationDirectory.set(File("./Out/Library/"))
 }
