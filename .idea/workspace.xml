@@ -4,7 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d429073-72f6-47be-a43e-e2424d02fb14" name="Changes" comment="" />
+    <list default="true" id="6d429073-72f6-47be-a43e-e2424d02fb14" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/artifact-fetcher-lib/src/main/kotlin/ArtifactRequestHandler.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artifact-fetcher-lib/src/main/kotlin/VersionFetcher.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artifact-fetcher-lib/src/main/kotlin/exceptions/CouldNotFindDependencyOnArtifacts.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artifact-fetcher-lib/src/main/kotlin/exceptions/InvalidDependencyFormat.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artifact-fetcher-lib/src/main/kotlin/model/ArtifactInfo.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artifact-fetcher-lib/src/main/kotlin/model/DependencyInfo.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artifact-fetcher-lib/src/main/kotlin/model/MetaData.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artifact-fetcher-lib/src/main/kotlin/model/Versioning.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artifact-fetcher-lib/src/main/kotlin/utils/XmlParserHelper.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/App.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,8 +30,18 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2BASK4wKxfSFQmU7GH38DjCAEK3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -27,9 +52,33 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "/Users/amitkumar.chaudhary/personal/artifact-fetcher/artifact-fetcher-lib/src/main/kotlin",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/artifact-fetcher-lib/src/main/kotlin" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="App" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="App" />
+      <module name="artifact-fetcher.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.App" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

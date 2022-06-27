@@ -13,6 +13,7 @@ repositories {
 
 dependencies {
     testImplementation(kotlin("test"))
+    implementation(project(":artifact-fetcher-lib"))
 }
 
 tasks.test {
